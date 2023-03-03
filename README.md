@@ -34,3 +34,30 @@ a "Ser Barristan Selmy", "Ser Barristan", "Barristan Selmy", "Barristan"
 
 q "**Fill in the blank! Obara, Nymeria, ...**"
 a "Tyene"
+
+q "**Finish the quote!: Kill the boy, Jon Snow, and ..."
+a "let the man be born.", "let the man be born"
+
+q "**At Castle Black, King Stannis Baratheon references what battle when speaking to Samwell Tarly?"
+a "The Battle of Ashford", "Battle of Ashford", "Ashford"
+
+q "**While in Meereen, whom does Queen Daenerys Targaryen marry?**"
+a "Hizdahr zo Loraq", "Hizdahr"
+
+q "**The Dance of Dragons is the title of what episode of Season Five of Game of Thrones?**"
+a "Season 5 Episode 9", "S05E09", "S5E9", "S5Ep9", "S5 Ep9", "9", "Nine", "E9", "Ep 9", "Episode 9", "Episode Nine"
+
+q "**The house words of which House appear as an episode title in Season Five of Game of Thrones?**"
+a "House Martell", "Martell"
+
+q "Who escorts Sansa Stark to her wedding with Ramsay Bolton?**"
+a "Theon Greyjoy", "Theon", "Reek"
+
+q "**A member of the Night's Watch dies in Season 5, Episode 7. Who was it?**"
+a "Maester Aemon Targaryen", "Maester Aemon", "Aemon Targaryen", "Aemon"
+
+q "**What is the gift that Jorah Mormont gives to Daenerys Targaryen in Season 5, Episode 7?**"
+a "Tyrion Lannister", "Tyrion"
+
+q "**The High Sparrow references two passages of The Seven-Pointed Star. Name one!**"
+a "Buggery and Perjury", "Buggery", "Perjury"
