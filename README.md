@@ -50,7 +50,7 @@ a "Season 5 Episode 9", "S05E09", "S5E9", "S5Ep9", "S5 Ep9", "9", "Nine", "E9", 
 q "**The house words of which House appear as an episode title in Season Five of Game of Thrones?**"
 a "House Martell", "Martell"
 
-q "Who escorts Sansa Stark to her wedding with Ramsay Bolton?**"
+q "**Who escorts Sansa Stark to her wedding with Ramsay Bolton?**"
 a "Theon Greyjoy", "Theon", "Reek"
 
 q "**A member of the Night's Watch dies in Season 5, Episode 7. Who was it?**"
