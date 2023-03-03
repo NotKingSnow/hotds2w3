@@ -38,7 +38,7 @@ a "Tyene"
 q "**Finish the quote!: Kill the boy, Jon Snow, and ...**"
 a "let the man be born.", "let the man be born"
 
-q "**At Castle Black, King Stannis Baratheon references what battle when speaking to Samwell Tarly?"
+q "**At Castle Black, King Stannis Baratheon references what battle when speaking to Samwell Tarly?**"
 a "The Battle of Ashford", "Battle of Ashford", "Ashford"
 
 q "**While in Meereen, whom does Queen Daenerys Targaryen marry?**"
