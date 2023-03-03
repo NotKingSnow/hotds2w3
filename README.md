@@ -35,7 +35,7 @@ a "Ser Barristan Selmy", "Ser Barristan", "Barristan Selmy", "Barristan"
 q "**Fill in the blank! Obara, Nymeria, ...**"
 a "Tyene"
 
-q "**Finish the quote!: Kill the boy, Jon Snow, and ..."
+q "**Finish the quote!: Kill the boy, Jon Snow, and ...**"
 a "let the man be born.", "let the man be born"
 
 q "**At Castle Black, King Stannis Baratheon references what battle when speaking to Samwell Tarly?"
