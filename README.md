@@ -59,5 +59,5 @@ a "Maester Aemon Targaryen", "Maester Aemon", "Aemon Targaryen", "Aemon"
 q "**What is the gift that Jorah Mormont gives to Daenerys Targaryen in Season 5, Episode 7?**"
 a "Tyrion Lannister", "Tyrion"
 
-q "**The High Sparrow references two passages of The Seven-Pointed Star. Name one!**"
+q "**The High Sparrow references two passages of The Seven-Pointed Star when speaking to Olenna Tyrell. Name one!**"
 a "Buggery and Perjury", "Buggery", "Perjury"
