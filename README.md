@@ -97,7 +97,7 @@ a "Septa Unella", "Unella"
 q "**By Season Six, who serves as Maester of Winterfell?**"
 a "Wolkan"
 
-q "In S6E1, what sword does Brienne of Tarth use to swear fealty to Sansa Stark?**"
+q "**In S6E1, what sword does Brienne of Tarth use to swear fealty to Sansa Stark?**"
 a "Oathkeeper"
 
 q "**The last of the Five Kings dies in which episode of Game of Thrones?**"
