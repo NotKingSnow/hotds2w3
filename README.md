@@ -61,3 +61,32 @@ a "Tyrion Lannister", "Tyrion"
 
 q "**The High Sparrow references two passages of The Seven-Pointed Star when speaking to Olenna Tyrell. Name one!**"
 a "Buggery and Perjury", "Buggery", "Perjury"
+
+q "**Fill in the blank! Oysters, clams, and ...**"
+a "cockles!", "cockles"
+
+q "**Name the character!**"
+a "Karsi"
+i "https://i.imgur.com/0MKaRbH.jpg"
+
+q "**After Cersei is imprisoned by the High Sparrow, who summons Kevan Lannister to serve as Hand of the King?**"
+a "Grand Maester Pycelle", "Maester Pycelle", "Pycelle"
+
+q "**Finish the quote: 'You have a good heart, Jon Snow. It'll ...' (4 words)**"
+a "get us all killed.", "get us all killed"
+
+q "**Name the character!**"
+a "Tycho Nestoris", "Tycho"
+i "https://i.imgur.com/tqZ0ewb.jpg"
+
+q "**In S5E9 of Game of Thrones, how many of the other combatants in the fighting pits does Jorah Mormont kill?**"
+a "Two", "2"
+
+q "**The second to last of the Five Kings dies in which episode of Game of Thrones?**"
+a 
+
+q
+a
+
+q "**By the end of Season Five, how many Targaryens had died in Game of Thrones?**"
+a "Three", "3"
