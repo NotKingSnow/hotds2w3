@@ -83,10 +83,10 @@ q "**In S5E9 of Game of Thrones, how many of the other combatants in the fightin
 a "Two", "2"
 
 q "**The second to last of the Five Kings dies in which episode of Game of Thrones?**"
-a 
+a "S05E10: Mother's Mercy", "S05E10", "S5E10", "Season 5 Episode 10", "S5Ep10", "5x10"
 
-q
-a
+q "**Before being kidnapped by the Dothraki, what does Daenerys Targaryen leave behind to mark her location?**"
+a "A ring", "ring"
 
 q "**By the end of Season Five, how many Targaryens had died in Game of Thrones?**"
 a "Three", "3"
