@@ -101,10 +101,10 @@ q "In S6E1, what sword does Brienne of Tarth use to swear fealty to Sansa Stark?
 a "Oathkeeper"
 
 q "**The last of the Five Kings dies in which episode of Game of Thrones?**"
-a
+a"S06E02: Home", "S06E02", "S6E2", "S6E02", "Season 6 Episode 2", "S6Ep2", "6x2", "6x02"
 
-q
-a
+q "**What was Hodor's birthname?**"
+a "Wylis"
 
-q
-a
+q "**Publicly, how did Lord Ramsay Bolton die?**"
+a "Poisoned by his enemies"
