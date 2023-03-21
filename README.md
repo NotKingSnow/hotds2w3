@@ -90,3 +90,21 @@ a "A ring", "ring"
 
 q "**By the end of Season Five, how many Targaryens had died in Game of Thrones?**"
 a "Three", "3"
+
+q "**Ted Lasso's Hannah Waddingham played who in Game of Thrones?**"
+a "Septa Unella", "Unella"
+
+q "**By Season Six, who serves as Maester of Winterfell?**"
+a "Wolkan"
+
+q "In S6E1, what sword does Brienne of Tarth use to swear fealty to Sansa Stark?**"
+a "Oathkeeper"
+
+q "**The last of the Five Kings dies in which episode of Game of Thrones?**"
+a
+
+q
+a
+
+q
+a
