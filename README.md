@@ -26,7 +26,7 @@ a "Lord Janos Slynt", "Janos Slynt", "Janos"
 q "**Ser Jorah Mormont kidnaps Tyrion Lannister in what city?**"
 a "Volantis"
 
-q "Shireen Baratheon contracted Greyscale from what item?**"
+q "**Shireen Baratheon contracted Greyscale from what item?**"
 a "A doll", "doll"
 
 q "**In S05E04, a character dies during an ambush. Who was the character?**"
@@ -101,10 +101,20 @@ q "**In S6E1, what sword does Brienne of Tarth use to swear fealty to Sansa Star
 a "Oathkeeper"
 
 q "**The last of the Five Kings dies in which episode of Game of Thrones?**"
-a"S06E02: Home", "S06E02", "S6E2", "S6E02", "Season 6 Episode 2", "S6Ep2", "6x2", "6x02"
+a "S06E02: Home", "S06E02", "S6E2", "S6E02", "Season 6 Episode 2", "S6Ep2", "6x2", "6x02"
 
 q "**What was Hodor's birthname?**"
 a "Wylis"
 
 q "**Publicly, how did Lord Ramsay Bolton die?**"
 a "Poisoned by his enemies"
+
+q "**The Tower of Joy first appears in what episode of Game of Thrones?**"
+a "S06E03: Oathbreaker", "S06E03", "S6E3", "S6E03", "Season 6 Episode 3", "S6Ep3", "6x3", "6x03"
+
+q "**Name the character!**"
+a "Ser Arthur Dayne", "Arthur Dayne", "Arthur"
+i "https://i.imgur.com/7u2mC7Q.jpg"
+
+q "**How many men did Jon Snow execute for his assassination in Season 6, Episode 3?**"
+a "Four", "4"
