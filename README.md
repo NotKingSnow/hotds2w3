@@ -116,5 +116,5 @@ q "**Name the character!**"
 a "Ser Arthur Dayne", "Arthur Dayne", "Arthur"
 i "https://i.imgur.com/7u2mC7Q.jpg"
 
-q "**How many men did Jon Snow execute for his assassination in Season 6, Episode 3?**"
-a "Four", "4"
+q "**What northern House allies with House Bolton in Season Six, Episode Three?**"
+a "House Umber", "Umber"
