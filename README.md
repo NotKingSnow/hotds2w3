@@ -106,7 +106,7 @@ a "S06E02: Home", "S06E02", "S6E2", "S6E02", "Season 6 Episode 2", "S6Ep2", "6x2
 q "**What was Hodor's birthname?**"
 a "Wylis"
 
-q "**Publicly, how did Lord Ramsay Bolton die?**"
+q "**Publicly, how did Lord Roose Bolton die?**"
 a "Poisoned by his enemies"
 
 q "**The Tower of Joy first appears in which episode of Game of Thrones?**"
