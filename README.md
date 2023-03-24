@@ -119,7 +119,7 @@ i "https://i.imgur.com/7u2mC7Q.jpg"
 q "**What northern House allies with House Bolton in Season Six, Episode Three?**"
 a "House Umber", "Umber"
 
-q "**Who acts as Lord Commander following Jon Snow leaves the order in Season Six?**"
+q "**Who acts as Lord Commander when Jon Snow leaves the order in Season Six?**"
 a "Eddison Tollett", "Edd Tollett", "Edd"
 
 q "**A Stark loyalist dies in Season 6, Episode 4. Who was it?**"
