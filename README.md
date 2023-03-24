@@ -166,7 +166,7 @@ a "Edmure Tully", "Edmure"
 q "**Finish the quote!: 'A girl is Arya Stark of Winterfell, and ...' (3 words)**"
 a "I'm going home.", "I'm going home", "Im going home", "I am going home"
 
-q "**Who said it?: 'You're going to die tomorrow, Lord Bolton. Sleep well.**"
+q "**Who said it?: 'You're going to die tomorrow, Lord Bolton. Sleep well.'**"
 a "Sansa Stark", "Sansa"
 
 q "**Who was Rickon Stark buried next to?**"
