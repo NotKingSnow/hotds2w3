@@ -156,3 +156,30 @@ i "https://i.imgur.com/6L4d44b.jpg"
 
 q "**Margaery Tyrell gives Olenna a drawing of what to let her know her true intentions in Season 6, Episode 7?**
 a "A rose", "Rose"
+
+q "**In Season 6, Episode 8, what does Cersei choose?**"
+a "Violence"
+
+q "**Who said it?: All of have to believe that we're decent, don't we? How do you tell yourself that you're decent, after everything that you've done?**"
+a "Edmure Tully", "Edmure"
+
+q "**Finish the quote!: 'A girl is Arya Stark of Winterfell, and ...' (3 words)**"
+a "I'm going home.", "I'm going home", "Im going home", "I am going home"
+
+q "Who said it?: 'You're going to die tomorrow, Lord Bolton. Sleep well.**"
+a "Sansa Stark", "Sansa"
+
+q "**Who was Rickon Stark buried next to?**"
+a "Lord Eddard Stark", "Eddard Stark", "Eddard", "Ned Stark", "Ned", "Lord Ned Stark"
+
+q "**Jon Snow used a shield to defend from Ramsay Bolton's arrows. What house's sigil was on that shield?**"
+a "House Mormont", "Mormont"
+
+q "**How many Tyrells are killed during the destruction of the Sept of Baelor?**"
+a "Three", "3"
+
+q "**Finish the quote!: 'If he commands you to burn children, ...' (4 words)**"
+a "your lord is evil.", "your lord is evil"
+
+q "**Who is the first person to proclaim Jon Snow as King in the North?**"
+a "Lady Lyanna Mormont", "Lyanna Mormont", "Lyanna", "Lady Mormont"
