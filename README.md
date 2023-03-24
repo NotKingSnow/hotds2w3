@@ -154,7 +154,7 @@ q "**Name the castle!**"
 a "Riverrun"
 i "https://i.imgur.com/6L4d44b.jpg"
 
-q "**Margaery Tyrell gives Olenna a drawing of what to let her know her true intentions in Season 6, Episode 7?**
+q "**Margaery Tyrell gives Olenna a drawing of what to let her know her true intentions in Season 6, Episode 7?**"
 a "A rose", "Rose"
 
 q "**In Season 6, Episode 8, what does Cersei choose?**"
