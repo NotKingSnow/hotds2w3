@@ -160,7 +160,7 @@ a "A rose", "Rose"
 q "**In Season 6, Episode 8, what does Cersei choose?**"
 a "Violence"
 
-q "**Who said it?: All of have to believe that we're decent, don't we? How do you tell yourself that you're decent, after everything that you've done?**"
+q "**Who said it?: 'All of us have to believe that we're decent, don't we? How do you tell yourself that you're decent, after everything that you've done?'**"
 a "Edmure Tully", "Edmure"
 
 q "**Finish the quote!: 'A girl is Arya Stark of Winterfell, and ...' (3 words)**"
