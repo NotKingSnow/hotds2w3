@@ -109,7 +109,7 @@ a "Wylis"
 q "**Publicly, how did Lord Ramsay Bolton die?**"
 a "Poisoned by his enemies"
 
-q "**The Tower of Joy first appears in what episode of Game of Thrones?**"
+q "**The Tower of Joy first appears in which episode of Game of Thrones?**"
 a "S06E03: Oathbreaker", "S06E03", "S6E3", "S6E03", "Season 6 Episode 3", "S6Ep3", "6x3", "6x03"
 
 q "**Name the character!**"
@@ -118,3 +118,41 @@ i "https://i.imgur.com/7u2mC7Q.jpg"
 
 q "**What northern House allies with House Bolton in Season Six, Episode Three?**"
 a "House Umber", "Umber"
+
+q "**Who acts as Lord Commander following Jon Snow leaves the order in Season Six?**"
+a "Eddison Tollett", "Edd Tollett", "Edd"
+
+q "**A Stark loyalist dies in Season 6, Episode 4. Who was it?**"
+a "Osha"
+
+q "**How long does Tyrion Lannister give the Masters of Slaver's Bay to abolish slavery?**"
+a "Seven years", "7 years"
+
+q "**Who hosts the kingsmoot following the assassination of King Balon Greyjoy in Season Six?**"
+a "Aeron Greyjoy", "Aeron Damphair", "Aeron", "Damphair"
+
+q "**Name the character!**"
+a "Kinvara"
+i "https://i.imgur.com/N4JOhYm.jpg"
+
+q "**Who does Sansa Stark send to Riverrun to meet with her uncle?**"
+a "Brienne of Tarth", "Brienne"
+
+q "**The 2nd Stark reunion takes place between Brandon Stark and whom?**"
+a "Benjen Stark", "Benjen"
+
+q "**What is the name of House Tarly's Valyrian steel sword?**"
+a "Heartsbane"
+
+q "**Who said it? 'My friends! The hour has come! Madness has overtaken this city!'**"
+a "Lord Mace Tyrell", "Mace Tyrell", "Mace the Ace", "Mace"
+
+q "**Ian McShane's character Brother Ray acts as the show's version of what book character?**"
+a "Septon Meribald", "Meribald"
+
+q "**Name the castle!**"
+a "Riverrun"
+i "https://i.imgur.com/6L4d44b.jpg"
+
+q "**Margaery Tyrell gives Olenna a drawing of what to let her know her true intentions in Season 6, Episode 7?**
+a "A rose", "Rose"
